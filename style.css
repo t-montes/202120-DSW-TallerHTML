@@ -1,0 +1,38 @@
+
+div {
+    margin:5px;
+}
+
+#maintitle {
+    text-align:center;
+    font-family: "Brush Script MT", cursive;
+    font-size:4em;
+}
+
+#divimage{
+    text-align: center;
+    max-height:20em;
+    background-color: rgb(185, 185, 189);
+    outline: thick solid darkcyan;
+    border-left: thick solid darkcyan;
+    margin-left: 15px;
+}
+
+#divform{
+    text-align:center;
+    background-color: rgb(184, 247, 238);
+    margin-right: 15px;
+}
+
+.bogotaimage {
+    height:100%;
+    width:auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.urlinsert{
+    text-align: center;
+    font-weight: bold;
+}
+
